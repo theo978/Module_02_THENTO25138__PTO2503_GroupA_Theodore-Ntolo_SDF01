@@ -69,7 +69,6 @@ coming soon
 
 -Connect me 
 
-[![GitHub](https://github.com/)]git 
 [![LinkedIn](https://linkedin.com/in/yourprofile) 
 📧 Email: [theodorentolo6@example.com]
 
