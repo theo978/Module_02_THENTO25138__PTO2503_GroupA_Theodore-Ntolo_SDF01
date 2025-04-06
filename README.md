@@ -29,8 +29,7 @@ While navigating through this challenge, I learned:
 
 ## Tools I Used 
 
- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-- ![GitHub]( GitHub )
+ Git and github
 
 -What I'm Learning 
 - HTML
@@ -51,12 +50,12 @@ coming soon
 ## 📄  Projects
 coming soon
 
-### *1️⃣ First GitHub Project*
+### 1 GitHub Project*
 
 🔹 *Description:* My first project using GitHub to manage files.  
 🔹 *Status:* ✅ Completed
 
-### *2️⃣ Personal Portfolio* (Coming Soon!)
+###  Personal Portfolio* (Coming Soon!)
 
 ---
 
@@ -70,8 +69,8 @@ coming soon
 
 -Connect me 
 
-[![GitHub](https://github.com/)]git  
-[![LinkedIn](https://linkedin.com/in/yourprofile)  
+[![GitHub](https://github.com/)]git 
+[![LinkedIn](https://linkedin.com/in/yourprofile) 
 📧 Email: [theodorentolo6@example.com]
 
 ---
