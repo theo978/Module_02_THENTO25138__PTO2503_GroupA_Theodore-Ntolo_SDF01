@@ -41,11 +41,6 @@ While navigating through this challenge, I learned:
 
 This is just the start of my wonderful journey in the world of technology. I plan to build useful projects using the knowledge I have gained and learned, and improve my coding skills every day as much as possible. I'm looking forward to learning HTML, CSS, JavaScript, and React.js in depth, which will be very useful.
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
-- ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
-
 ---
 
 ## 🏆 Soft Skills
@@ -76,8 +71,8 @@ coming soon
 -Connect me 
 
 [![GitHub](https://github.com/)]git  
-[![LinkedIn](https://www.linkedin.com/in/theodore-ntolo-12399435a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://linkedin.com/in/yourprofile)  
-📧 Email: [theodorentolo6@example.com](mailto:youremail@example.com)
+[![LinkedIn](https://linkedin.com/in/yourprofile)  
+📧 Email: [theodorentolo6@example.com]
 
 ---
 
@@ -86,7 +81,3 @@ coming soon
 💡 I enjoy learning new complex topics like coding and can't wait to build a useful website!
 
 ---
-
-## 🏆 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
