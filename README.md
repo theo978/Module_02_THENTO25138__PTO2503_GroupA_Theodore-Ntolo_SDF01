@@ -50,11 +50,6 @@ coming soon
 ## 📄  Projects
 coming soon
 
-### 1 GitHub Project*
-
-🔹 *Description:* My first project using GitHub to manage files.  
-🔹 *Status:* ✅ Completed
-
 ###  Personal Portfolio* (Coming Soon!)
 
 ---
